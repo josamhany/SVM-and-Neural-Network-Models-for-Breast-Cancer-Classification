@@ -78,5 +78,5 @@ pip install numpy pandas matplotlib seaborn scikit-learn tensorflow
 - Explore other SVM kernels (e.g., linear, polynomial) for comparison.
 - Incorporate cross-validation for more robust performance evaluation.
 
-## License
-This project is licensed under the MIT License
+## Contacnt
+(LinkedIn)[(https://www.linkedin.com/posts/josam-hany-76b449301_machinelearning-artificialintelligence-healthcareinnovation-activity-7327691440501784578-m_YT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE0hRQMBJwwXzE_2WIlbIlC2-W8nTypJdkU)]
