@@ -79,4 +79,4 @@ pip install numpy pandas matplotlib seaborn scikit-learn tensorflow
 - Incorporate cross-validation for more robust performance evaluation.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License
