@@ -35,7 +35,7 @@ This project compares the performance of Support Vector Machine (SVM) and Neural
 | Neural Network (Tanh)  | 0.9825   | 0.9767   | [[70, 1], [1, 42]]  |
 | Neural Network (ReLU)  | 0.9825   | 0.9762   | [[71, 0], [2, 41]]  |
 
-- **Best Performer**: Neural Network with Sigmoid activation (Accuracy: 0.9912, F1-Score: 0.9882).
+- **Best Performer**: Neural Network with Sigmoid activation (Accuracy: 0.9912, F1-Score: 0.9882), This is not considered Overfitting as the data is small for neural networks performance.
 - **ROC Analysis**: Sigmoid-based NN achieved the highest AUC, indicating superior classification ability.
 - **Observations**: No overfitting observed; ReLU and Tanh models show potential underfitting, which could be addressed by adjusting architecture or adding regularization.
 
